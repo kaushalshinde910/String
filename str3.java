@@ -3,8 +3,8 @@ package String;
 public class str3 {
 
     public static void main(String[] args) {
-        String s1 = "hefshine";
-        String s2 = "shine";
+        String s1 = "kaushalshinde";
+        String s2 = "shinde";
 
         // Using the endsWith() method
         boolean endWith = s1.endsWith(s2);
